@@ -1,0 +1,13 @@
+.flex { 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  
+  .nav_item { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+  }
+}
